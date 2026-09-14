@@ -1,19 +1,19 @@
 # MMVS - EarthToy
 
-This mod allow you to play [Macro Micro VR Service (MMVS)](https://www.bleuraven.fr/mmvs) in real-world environments using Cesium Ion.
+This mod allows you to play [Macro Micro VR Service (MMVS)](https://www.bleuraven.fr/mmvs) in real-world environments using Cesium ion.
 
 ![EarthToy Poster](https://github.com/xavier150/MMVS_EarthToy/wiki/images/earth_toy_poster.jpeg)
 
-For the moment this mod only works in MMVS **v0.4.7**, and every new release will be dependent on current MMVS version.
+At the moment, this mod only works with MMVS **v0.4.7**, and each new release will depend on the current version of MMVS.
 
-This is because the mod is build with the game as pak files.  
-In the future I will do a better mod support with the milestone [MMVS SDK](https://github.com/xavier150/MMVS/wiki/(Milestone)-MMVS-SDK), the mod version will not be dependent on the MMVS version anymore.
+This is because the mod is built durring the game build as game `.pak` files.  
+In the future, the [MMVS SDK](https://github.com/xavier150/MMVS/wiki/(Milestone)-MMVS-SDK) milestone will provide better mod support, so the mod will no longer depend on a specific MMVS version.
 
 # How to Install
 
-- Go in release [here](https://github.com/xavier150/MMVS_EarthToy/releases) 
+- Go to the [Releases page](https://github.com/xavier150/MMVS_EarthToy/releases).
 - Download `EarthToy_0.0.1-MMVS_0.4.7.zip`
-- Extract and place the `content` folder into your MMVS installation directory.
+- Extract the archive and place the `content` folder in your MMVS installation directory.
 
 <img src="https://github.com/xavier150/MMVS_EarthToy/wiki/images/how_to_install/extracted_files.png" alt="Extracted files" width="50%" height="auto">
 
@@ -21,18 +21,18 @@ In the future I will do a better mod support with the milestone [MMVS SDK](https
 
 - Launch MMVS.
 - Start a new game. (The configuration doesn't matter.)
-- Once the game is loaded press "R" to open the debug menu.
-- Go in "Misc" and activate the "Game Modding" option.
-- A new page will appear below, navigate to "Custom Levels" and click on "World Play Rug".
+- Once the game has loaded, press "R" to open the debug menu.
+- Go to "Misc" and activate the "Game Modding" option.
+- A new page will appear below. Navigate to "Custom Levels" and click on "World Play Rug".
 
 <img src="https://github.com/xavier150/MMVS_EarthToy/wiki/images/how_to_use/navigation_to_custom_levels.png" alt="Navigation to Custom Levels" width="50%" height="auto">
 
-- You can now read the in game panel for more details.
+- You can now read the in-game panel for more details.
 - Enjoy!
 
 ![EarthToy Footprint](https://github.com/xavier150/MMVS_EarthToy/wiki/images/earth_toy_footprint.jpeg)
 
-In the future, with the MMVS SDK it will be possible to load the level directly from the play page.
+In the future, with the MMVS SDK, it will be possible to load the level directly from the play page.
 
 # Disclaimer
 Users are responsible for complying with Cesium ion's Terms of Service.  
