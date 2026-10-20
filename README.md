@@ -12,7 +12,7 @@ In the future, the [MMVS SDK](https://github.com/xavier150/MMVS/wiki/(Milestone)
 # How to Install
 
 - Go to the [Releases page](https://github.com/xavier150/MMVS_EarthToy/releases).
-- Download `EarthToy_0.0.1-MMVS_0.4.7.zip`.
+- Download the compatible version of the mod archive (e.g., `EarthToy_0.0.2-MMVS_0.4.7.1.zip`).
 - Extract the archive and place all pakchunk files in `[GameFolder]\MacroMicroVRService\Content\Paks`.
 
 <img src="https://github.com/xavier150/MMVS_EarthToy/wiki/images/how_to_install/extracted_files.png" alt="Extracted files" width="50%" height="auto">
